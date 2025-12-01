@@ -1,8 +1,8 @@
-# Pro-Sport-API
+# Vortex-AMS
 An open source AMS system to help young professionals and sports teams, to level up their data injection and data processing
 
 
-# Open Source Athlete Management System (AMS)
+# Open Source Athlete Management System (VORTEX-AMS)
 
 ## About Us
 
